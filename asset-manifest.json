@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kanjilalrupam/static/css/main.60f542fe.chunk.css",
+    "main.js": "/kanjilalrupam/static/js/main.9edb94df.chunk.js",
+    "main.js.map": "/kanjilalrupam/static/js/main.9edb94df.chunk.js.map",
+    "runtime-main.js": "/kanjilalrupam/static/js/runtime-main.4c35ea35.js",
+    "runtime-main.js.map": "/kanjilalrupam/static/js/runtime-main.4c35ea35.js.map",
+    "static/css/2.f2512455.chunk.css": "/kanjilalrupam/static/css/2.f2512455.chunk.css",
+    "static/js/2.417d2bcc.chunk.js": "/kanjilalrupam/static/js/2.417d2bcc.chunk.js",
+    "static/js/2.417d2bcc.chunk.js.map": "/kanjilalrupam/static/js/2.417d2bcc.chunk.js.map",
+    "static/js/3.3552c898.chunk.js": "/kanjilalrupam/static/js/3.3552c898.chunk.js",
+    "static/js/3.3552c898.chunk.js.map": "/kanjilalrupam/static/js/3.3552c898.chunk.js.map",
+    "index.html": "/kanjilalrupam/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/kanjilalrupam/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.60f542fe.chunk.css.map": "/kanjilalrupam/static/css/main.60f542fe.chunk.css.map",
+    "static/js/2.417d2bcc.chunk.js.LICENSE.txt": "/kanjilalrupam/static/js/2.417d2bcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c35ea35.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.417d2bcc.chunk.js",
+    "static/css/main.60f542fe.chunk.css",
+    "static/js/main.9edb94df.chunk.js"
+  ]
+}
